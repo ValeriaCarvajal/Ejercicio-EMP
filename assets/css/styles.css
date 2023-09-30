@@ -1,0 +1,11 @@
+body{
+    color: aliceblue;
+    background-color: black;
+}
+h2{
+    color: aliceblue;
+    text-align: center;
+}
+.btn btn-primary{
+    text-align: center;
+}
